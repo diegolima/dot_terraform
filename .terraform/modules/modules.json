@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"cvp_cluster","Source":"./modules/cvp-cluster","Dir":"modules/cvp-cluster"},{"Key":"cvp_provision_nodes","Source":"git::https://gitlab.aristanetworks.com/tac-team/cvp-ansible-provisioning.git?ref=v3.0.2","Dir":".terraform/modules/cvp_provision_nodes"},{"Key":"","Source":"","Dir":"."}]}
